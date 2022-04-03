@@ -1,0 +1,3 @@
+C:/university/third-year/first-semester/AI/projects/project_1/cmake-build-debug/CMakeFiles/project_1.dir
+C:/university/third-year/first-semester/AI/projects/project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/university/third-year/first-semester/AI/projects/project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
